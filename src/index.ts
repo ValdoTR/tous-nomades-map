@@ -2,8 +2,17 @@
 
 import {bootstrapExtra} from "@workadventure/scripting-api-extra";
 
-// The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure.
-bootstrapExtra().catch(e => console.error(e));
+console.log('Script started successfully');
+
+async function extendedFeatures() {
+    try {
+        await bootstrapExtra()
+        console.log('Scripting API Extra loaded successfully');
+    } catch (error) {
+        console.error('Scripting API Extra ERROR',error);
+    }
+}
+extendedFeatures();
 
 WA.room.onEnterZone("interviewRoom1", () => {
     WA.room.hideLayer("InterviewRoom1Open")
