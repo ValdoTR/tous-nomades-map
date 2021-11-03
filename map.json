@@ -39,7 +39,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/club.json#from-home"
+                         "value":"\/@\/tous-nomades\/tous-nomades-land\/club#from-home"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -57,7 +57,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/activities.json#from-home"
+                         "value":"\/@\/tous-nomades\/tous-nomades-land\/activites#from-home"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -75,7 +75,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/partners.json#from-home"
+                         "value":"\/@\/tous-nomades\/tous-nomades-land\/partenaires#from-home"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -93,7 +93,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/remote-companies.json#from-home"
+                         "value":"\/@\/tous-nomades\/tous-nomades-land\/entreprises-remote#from-home"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -111,7 +111,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/interview.json#from-home"
+                         "value":"\/@\/tous-nomades\/tous-nomades-land\/interview#from-home"
                         }],
                  "type":"tilelayer",
                  "visible":true,

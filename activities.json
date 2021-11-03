@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#from-fun"
+                 "value":"\/@\/tous-nomades\/tous-nomades-land\/accueil#from-fun"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#from-club"
+                 "value":"\/@\/tous-nomades\/tous-nomades-land\/accueil#from-club"
                 }],
          "type":"tilelayer",
          "visible":true,
