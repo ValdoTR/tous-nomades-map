@@ -408,7 +408,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Salle d'accueil de tousnomades.com"
         }, 
         {
          "name":"mapImage",
@@ -423,7 +423,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Tous Nomades"
+         "value":"Accueil"
         }, 
         {
          "name":"script",
