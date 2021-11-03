@@ -198,7 +198,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"activities.png"
         }, 
         {
          "name":"mapLink",

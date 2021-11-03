@@ -222,7 +222,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"club.png"
         }, 
         {
          "name":"mapLink",
