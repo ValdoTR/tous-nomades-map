@@ -15,43 +15,55 @@ async function extendedFeatures() {
 extendedFeatures();
 
 WA.room.onEnterZone("interviewRoom1", () => {
-    WA.room.hideLayer("InterviewRoom1Open")
+    WA.room.hideLayer("door1Open")
+    WA.room.hideLayer("hideDoor1Closed")
 })
 WA.room.onLeaveZone("interviewRoom1", () => {
-    WA.room.showLayer("InterviewRoom1Open")
+    WA.room.showLayer("door1Open")
+    WA.room.showLayer("hideDoor1Closed")
 })
 
 WA.room.onEnterZone("interviewRoom2", () => {
-    WA.room.hideLayer("InterviewRoom2Open")
+    WA.room.hideLayer("door2Open")
+    WA.room.hideLayer("hideDoor2Closed")
 })
 WA.room.onLeaveZone("interviewRoom2", () => {
-    WA.room.showLayer("InterviewRoom2Open")
+    WA.room.showLayer("door2Open")
+    WA.room.showLayer("hideDoor2Closed")
 })
 
 WA.room.onEnterZone("interviewRoom3", () => {
-    WA.room.hideLayer("InterviewRoom3Open")
+    WA.room.hideLayer("door3Open")
+    WA.room.hideLayer("hideDoor3Closed")
 })
 WA.room.onLeaveZone("interviewRoom3", () => {
-    WA.room.showLayer("InterviewRoom3Open")
+    WA.room.showLayer("door3Open")
+    WA.room.showLayer("hideDoor3Closed")
 })
 
 WA.room.onEnterZone("interviewRoom4", () => {
-    WA.room.hideLayer("InterviewRoom4Open")
+    WA.room.hideLayer("door4Open")
+    WA.room.hideLayer("hideDoor4Closed")
 })
 WA.room.onLeaveZone("interviewRoom4", () => {
-    WA.room.showLayer("InterviewRoom4Open")
+    WA.room.showLayer("door4Open")
+    WA.room.showLayer("hideDoor4Closed")
 })
 
 WA.room.onEnterZone("interviewRoom5", () => {
-    WA.room.hideLayer("InterviewRoom5Open")
+    WA.room.hideLayer("door5Open")
+    WA.room.hideLayer("hideDoor5Closed")
 })
 WA.room.onLeaveZone("interviewRoom5", () => {
-    WA.room.showLayer("InterviewRoom5Open")
+    WA.room.showLayer("door5Open")
+    WA.room.showLayer("hideDoor5Closed")
 })
 
 WA.room.onEnterZone("interviewRoom6", () => {
-    WA.room.hideLayer("InterviewRoom6Open")
+    WA.room.hideLayer("door6Open")
+    WA.room.hideLayer("hideDoor6Closed")
 })
 WA.room.onLeaveZone("interviewRoom6", () => {
-    WA.room.showLayer("InterviewRoom6Open")
+    WA.room.showLayer("door6Open")
+    WA.room.showLayer("hideDoor6Closed")
 })
