@@ -276,6 +276,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"chillZoneEst"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -294,6 +299,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"chillZoneOuest"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -312,6 +322,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"cafet"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
