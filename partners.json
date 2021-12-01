@@ -3985,7 +3985,7 @@
                                         {
                                          "name":"openWebsite",
                                          "type":"string",
-                                         "value":"{{{ violet2PresentationPartenaire }}}"
+                                         "value":"{{{ violet1PresentationPartenaire }}}"
                                         }, 
                                         {
                                          "name":"openWebsiteTrigger",
@@ -4258,11 +4258,6 @@
                          "name":"label",
                          "type":"string",
                          "value":"Stand Violet n\u00b01"
-                        }, 
-                        {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
                         }],
                  "type":"objectgroup",
                  "visible":true,
@@ -5387,7 +5382,7 @@
                         {
                          "height":0,
                          "id":309,
-                         "name":"violet12PresentationPartenaire",
+                         "name":"violet11PresentationPartenaire",
                          "point":true,
                          "properties":[
                                 {
@@ -5398,7 +5393,7 @@
                                 {
                                  "name":"description",
                                  "type":"string",
-                                 "value":"Stand Voilet n\u00b012"
+                                 "value":"Stand Voilet n\u00b011"
                                 }, 
                                 {
                                  "name":"label",
@@ -7635,6 +7630,12 @@
                 }],
          "name":"configuration",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"admin"
+                }],
          "type":"group",
          "visible":true,
          "x":0,
