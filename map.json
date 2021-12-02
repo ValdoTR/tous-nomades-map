@@ -257,7 +257,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/drive.google.com\/uc?id=1gL_YxS0tM_JvPK0Sgp7kQaCnxToLkdR3"
+                         "value":"https:\/\/drive.google.com\/file\/d\/1QDavkGzHkUGimiv4A0VxG1zFYB6PSWz6\/preview"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -495,7 +495,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"2021.03.23",
  "tileheight":32,
  "tilesets":[
         {
@@ -861,6 +861,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":32
 }
