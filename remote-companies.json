@@ -20078,7 +20078,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"src\/assets\/LimeZu_1_Generic_32x32.png",
+         "image":"tilesets\/LimeZu_1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -20091,7 +20091,7 @@
         {
          "columns":16,
          "firstgid":961,
-         "image":"src\/assets\/LimeZu_3_Bathroom_32x32.png",
+         "image":"tilesets\/LimeZu_3_Bathroom_32x32.png",
          "imageheight":1792,
          "imagewidth":512,
          "margin":0,
@@ -20104,7 +20104,7 @@
         {
          "columns":16,
          "firstgid":1857,
-         "image":"src\/assets\/LimeZu_2_LivingRoom_32x32.png",
+         "image":"tilesets\/LimeZu_2_LivingRoom_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -20117,7 +20117,7 @@
         {
          "columns":16,
          "firstgid":2577,
-         "image":"src\/assets\/LimeZu_4_Bedroom_32x32.png",
+         "image":"tilesets\/LimeZu_4_Bedroom_32x32.png",
          "imageheight":3424,
          "imagewidth":512,
          "margin":0,
@@ -20130,7 +20130,7 @@
         {
          "columns":16,
          "firstgid":4289,
-         "image":"src\/assets\/LimeZu_5_Classroom_and_library_32x32.png",
+         "image":"tilesets\/LimeZu_5_Classroom_and_library_32x32.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -20143,7 +20143,7 @@
         {
          "columns":16,
          "firstgid":4833,
-         "image":"src\/assets\/LimeZu_6_Music_and_sport_32x32.png",
+         "image":"tilesets\/LimeZu_6_Music_and_sport_32x32.png",
          "imageheight":928,
          "imagewidth":512,
          "margin":0,
@@ -20156,7 +20156,7 @@
         {
          "columns":16,
          "firstgid":5297,
-         "image":"src\/assets\/LimeZu_7_Art_32x32.png",
+         "image":"tilesets\/LimeZu_7_Art_32x32.png",
          "imageheight":224,
          "imagewidth":512,
          "margin":0,
@@ -20169,7 +20169,7 @@
         {
          "columns":16,
          "firstgid":5409,
-         "image":"src\/assets\/LimeZu_12_Kitchen_32x32.png",
+         "image":"tilesets\/LimeZu_12_Kitchen_32x32.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -20182,7 +20182,7 @@
         {
          "columns":16,
          "firstgid":6193,
-         "image":"src\/assets\/LimeZu_14_Basement_32x32.png",
+         "image":"tilesets\/LimeZu_14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -20195,7 +20195,7 @@
         {
          "columns":16,
          "firstgid":6993,
-         "image":"src\/assets\/LimeZu_16_Grocery_store_32x32.png",
+         "image":"tilesets\/LimeZu_16_Grocery_store_32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -20208,7 +20208,7 @@
         {
          "columns":16,
          "firstgid":8241,
-         "image":"src\/assets\/LimeZu_18_Jail_32x32.png",
+         "image":"tilesets\/LimeZu_18_Jail_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -20221,7 +20221,7 @@
         {
          "columns":16,
          "firstgid":8961,
-         "image":"src\/assets\/LimeZu_19_Hospital_32x32.png",
+         "image":"tilesets\/LimeZu_19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -20234,7 +20234,7 @@
         {
          "columns":16,
          "firstgid":10721,
-         "image":"src\/assets\/LimeZu_21_Clothing_Store_32x32.png",
+         "image":"tilesets\/LimeZu_21_Clothing_Store_32x32.png",
          "imageheight":2144,
          "imagewidth":512,
          "margin":0,
@@ -20247,7 +20247,7 @@
         {
          "columns":16,
          "firstgid":11793,
-         "image":"src\/assets\/LimeZu_22_Museum_32x32.png",
+         "image":"tilesets\/LimeZu_22_Museum_32x32.png",
          "imageheight":1152,
          "imagewidth":512,
          "margin":0,
@@ -20260,7 +20260,7 @@
         {
          "columns":75,
          "firstgid":12369,
-         "image":"src\/assets\/LimeZu_23_Room_Builder_32x32.png",
+         "image":"tilesets\/LimeZu_23_Room_Builder_32x32.png",
          "imageheight":2144,
          "imagewidth":2400,
          "margin":0,
@@ -20273,7 +20273,7 @@
         {
          "columns":22,
          "firstgid":17394,
-         "image":"src\/assets\/LimeZu_24_Office_32x32.png",
+         "image":"tilesets\/LimeZu_24_Office_32x32.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -20286,7 +20286,7 @@
         {
          "columns":18,
          "firstgid":17922,
-         "image":"src\/assets\/LimeZu_24_User_Interface_32x32.png",
+         "image":"tilesets\/LimeZu_24_User_Interface_32x32.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -20299,7 +20299,7 @@
         {
          "columns":6,
          "firstgid":18174,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"tilesets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -20322,7 +20322,7 @@
         {
          "columns":7,
          "firstgid":18186,
-         "image":"src\/assets\/TousNomades_Walls.png",
+         "image":"tilesets\/TousNomades_Walls.png",
          "imageheight":960,
          "imagewidth":224,
          "margin":0,
@@ -20335,7 +20335,7 @@
         {
          "columns":8,
          "firstgid":18396,
-         "image":"src\/assets\/TousNomades_Logos.png",
+         "image":"tilesets\/TousNomades_Logos.png",
          "imageheight":1152,
          "imagewidth":256,
          "margin":0,
@@ -20348,7 +20348,7 @@
         {
          "columns":5,
          "firstgid":18684,
-         "image":"src\/assets\/TousNomades_Booth.png",
+         "image":"tilesets\/TousNomades_Booth.png",
          "imageheight":96,
          "imagewidth":160,
          "margin":0,
@@ -20361,7 +20361,7 @@
         {
          "columns":6,
          "firstgid":18699,
-         "image":"src\/assets\/TousNomades_Font.png",
+         "image":"tilesets\/TousNomades_Font.png",
          "imageheight":480,
          "imagewidth":192,
          "margin":0,
@@ -20374,7 +20374,7 @@
         {
          "columns":12,
          "firstgid":18789,
-         "image":"src\/assets\/Foodles.png",
+         "image":"tilesets\/Foodles.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
@@ -20387,7 +20387,7 @@
         {
          "columns":17,
          "firstgid":18933,
-         "image":"src\/assets\/lecollectionist.png",
+         "image":"tilesets\/lecollectionist.png",
          "imageheight":169,
          "imagewidth":544,
          "margin":0,
@@ -20400,7 +20400,7 @@
         {
          "columns":17,
          "firstgid":19018,
-         "image":"src\/assets\/meetic.png",
+         "image":"tilesets\/meetic.png",
          "imageheight":192,
          "imagewidth":559,
          "margin":0,
@@ -20413,7 +20413,7 @@
         {
          "columns":14,
          "firstgid":19120,
-         "image":"src\/assets\/Fittingbox.png",
+         "image":"tilesets\/Fittingbox.png",
          "imageheight":143,
          "imagewidth":448,
          "margin":0,
@@ -20426,7 +20426,7 @@
         {
          "columns":10,
          "firstgid":19176,
-         "image":"src\/assets\/troops.png",
+         "image":"tilesets\/troops.png",
          "imageheight":124,
          "imagewidth":320,
          "margin":0,
@@ -20439,7 +20439,7 @@
         {
          "columns":10,
          "firstgid":19206,
-         "image":"src\/assets\/markcopy.png",
+         "image":"tilesets\/markcopy.png",
          "imageheight":96,
          "imagewidth":320,
          "margin":0,
@@ -20452,7 +20452,7 @@
         {
          "columns":10,
          "firstgid":19236,
-         "image":"src\/assets\/wayf.png",
+         "image":"tilesets\/wayf.png",
          "imageheight":135,
          "imagewidth":340,
          "margin":0,
@@ -20465,7 +20465,7 @@
         {
          "columns":10,
          "firstgid":19276,
-         "image":"src\/assets\/linking talents.png",
+         "image":"tilesets\/linking talents.png",
          "imageheight":160,
          "imagewidth":348,
          "margin":0,
@@ -20478,7 +20478,7 @@
         {
          "columns":14,
          "firstgid":19326,
-         "image":"src\/assets\/welcome to the jungle.png",
+         "image":"tilesets\/welcome to the jungle.png",
          "imageheight":167,
          "imagewidth":454,
          "margin":0,
@@ -20491,7 +20491,7 @@
         {
          "columns":10,
          "firstgid":19396,
-         "image":"src\/assets\/Exodata.png",
+         "image":"tilesets\/Exodata.png",
          "imageheight":108,
          "imagewidth":320,
          "margin":0,
@@ -20504,7 +20504,7 @@
         {
          "columns":12,
          "firstgid":19426,
-         "image":"src\/assets\/Orion_Welcome_Still_HPM-HD.jpeg",
+         "image":"tilesets\/Orion_Welcome_Still_HPM-HD.jpeg",
          "imageheight":225,
          "imagewidth":400,
          "margin":0,
@@ -20517,7 +20517,7 @@
         {
          "columns":10,
          "firstgid":19510,
-         "image":"src\/assets\/good vibes only.png",
+         "image":"tilesets\/good vibes only.png",
          "imageheight":264,
          "imagewidth":320,
          "margin":0,
@@ -20530,7 +20530,7 @@
         {
          "columns":10,
          "firstgid":19590,
-         "image":"src\/assets\/BoondManager.png",
+         "image":"tilesets\/BoondManager.png",
          "imageheight":198,
          "imagewidth":350,
          "margin":0,
@@ -20543,7 +20543,7 @@
         {
          "columns":12,
          "firstgid":19650,
-         "image":"src\/assets\/Newsbridge.png",
+         "image":"tilesets\/Newsbridge.png",
          "imageheight":148,
          "imagewidth":402,
          "margin":0,
@@ -20556,7 +20556,7 @@
         {
          "columns":13,
          "firstgid":19698,
-         "image":"src\/assets\/Bconseil.png",
+         "image":"tilesets\/Bconseil.png",
          "imageheight":143,
          "imagewidth":425,
          "margin":0,
@@ -20569,7 +20569,7 @@
         {
          "columns":10,
          "firstgid":19750,
-         "image":"src\/assets\/Yousign .png",
+         "image":"tilesets\/Yousign .png",
          "imageheight":107,
          "imagewidth":320,
          "margin":0,
@@ -20582,7 +20582,7 @@
         {
          "columns":11,
          "firstgid":19780,
-         "image":"src\/assets\/AssessFirst.png",
+         "image":"tilesets\/AssessFirst.png",
          "imageheight":350,
          "imagewidth":362,
          "margin":0,
@@ -20595,7 +20595,7 @@
         {
          "columns":8,
          "firstgid":19890,
-         "image":"src\/assets\/Cleyrop.png",
+         "image":"tilesets\/Cleyrop.png",
          "imageheight":230,
          "imagewidth":270,
          "margin":0,
@@ -20608,7 +20608,7 @@
         {
          "columns":12,
          "firstgid":19946,
-         "image":"src\/assets\/Oclock.png",
+         "image":"tilesets\/Oclock.png",
          "imageheight":219,
          "imagewidth":400,
          "margin":0,
@@ -20621,7 +20621,7 @@
         {
          "columns":15,
          "firstgid":20018,
-         "image":"src\/assets\/Bfore.ai.png",
+         "image":"tilesets\/Bfore.ai.png",
          "imageheight":314,
          "imagewidth":498,
          "margin":0,
@@ -20634,7 +20634,7 @@
         {
          "columns":11,
          "firstgid":20153,
-         "image":"src\/assets\/SuperForge2.png",
+         "image":"tilesets\/SuperForge2.png",
          "imageheight":107,
          "imagewidth":360,
          "margin":0,
@@ -20647,7 +20647,7 @@
         {
          "columns":9,
          "firstgid":20186,
-         "image":"src\/assets\/Cegid.png",
+         "image":"tilesets\/Cegid.png",
          "imageheight":138,
          "imagewidth":316,
          "margin":0,
@@ -20660,7 +20660,7 @@
         {
          "columns":10,
          "firstgid":20222,
-         "image":"src\/assets\/Eastelson.png",
+         "image":"tilesets\/Eastelson.png",
          "imageheight":131,
          "imagewidth":350,
          "margin":0,
@@ -20673,7 +20673,7 @@
         {
          "columns":13,
          "firstgid":20262,
-         "image":"src\/assets\/Go Rh.png",
+         "image":"tilesets\/Go Rh.png",
          "imageheight":184,
          "imagewidth":440,
          "margin":0,
@@ -20686,7 +20686,7 @@
         {
          "columns":14,
          "firstgid":20327,
-         "image":"src\/assets\/Dashbook.png",
+         "image":"tilesets\/Dashbook.png",
          "imageheight":174,
          "imagewidth":462,
          "margin":0,
@@ -20699,7 +20699,7 @@
         {
          "columns":10,
          "firstgid":20397,
-         "image":"src\/assets\/Easy Partner.png",
+         "image":"tilesets\/Easy Partner.png",
          "imageheight":350,
          "imagewidth":350,
          "margin":0,
@@ -20712,7 +20712,7 @@
         {
          "columns":12,
          "firstgid":20497,
-         "image":"src\/assets\/iters-jobs.png",
+         "image":"tilesets\/iters-jobs.png",
          "imageheight":275,
          "imagewidth":400,
          "margin":0,
@@ -20725,7 +20725,7 @@
         {
          "columns":23,
          "firstgid":20593,
-         "image":"src\/assets\/geek on.png",
+         "image":"tilesets\/geek on.png",
          "imageheight":518,
          "imagewidth":752,
          "margin":0,
@@ -20738,7 +20738,7 @@
         {
          "columns":12,
          "firstgid":20961,
-         "image":"src\/assets\/Recruteur 1.png",
+         "image":"tilesets\/Recruteur 1.png",
          "imageheight":214,
          "imagewidth":390,
          "margin":0,
@@ -20751,7 +20751,7 @@
         {
          "columns":19,
          "firstgid":21033,
-         "image":"src\/assets\/Geek is NS.png",
+         "image":"tilesets\/Geek is NS.png",
          "imageheight":431,
          "imagewidth":628,
          "margin":0,
@@ -20764,7 +20764,7 @@
         {
          "columns":22,
          "firstgid":21280,
-         "image":"src\/assets\/Geek 2 tapis.png",
+         "image":"tilesets\/Geek 2 tapis.png",
          "imageheight":522,
          "imagewidth":716,
          "margin":0,

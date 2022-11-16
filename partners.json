@@ -7718,7 +7718,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"src\/assets\/LimeZu_1_Generic_32x32.png",
+         "image":"tilesets\/LimeZu_1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -7731,7 +7731,7 @@
         {
          "columns":16,
          "firstgid":961,
-         "image":"src\/assets\/LimeZu_3_Bathroom_32x32.png",
+         "image":"tilesets\/LimeZu_3_Bathroom_32x32.png",
          "imageheight":1792,
          "imagewidth":512,
          "margin":0,
@@ -7744,7 +7744,7 @@
         {
          "columns":16,
          "firstgid":1857,
-         "image":"src\/assets\/LimeZu_2_LivingRoom_32x32.png",
+         "image":"tilesets\/LimeZu_2_LivingRoom_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -7757,7 +7757,7 @@
         {
          "columns":16,
          "firstgid":2577,
-         "image":"src\/assets\/LimeZu_4_Bedroom_32x32.png",
+         "image":"tilesets\/LimeZu_4_Bedroom_32x32.png",
          "imageheight":3424,
          "imagewidth":512,
          "margin":0,
@@ -7770,7 +7770,7 @@
         {
          "columns":16,
          "firstgid":4289,
-         "image":"src\/assets\/LimeZu_5_Classroom_and_library_32x32.png",
+         "image":"tilesets\/LimeZu_5_Classroom_and_library_32x32.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -7783,7 +7783,7 @@
         {
          "columns":16,
          "firstgid":4833,
-         "image":"src\/assets\/LimeZu_6_Music_and_sport_32x32.png",
+         "image":"tilesets\/LimeZu_6_Music_and_sport_32x32.png",
          "imageheight":928,
          "imagewidth":512,
          "margin":0,
@@ -7796,7 +7796,7 @@
         {
          "columns":16,
          "firstgid":5297,
-         "image":"src\/assets\/LimeZu_7_Art_32x32.png",
+         "image":"tilesets\/LimeZu_7_Art_32x32.png",
          "imageheight":224,
          "imagewidth":512,
          "margin":0,
@@ -7809,7 +7809,7 @@
         {
          "columns":16,
          "firstgid":5409,
-         "image":"src\/assets\/LimeZu_12_Kitchen_32x32.png",
+         "image":"tilesets\/LimeZu_12_Kitchen_32x32.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -7822,7 +7822,7 @@
         {
          "columns":16,
          "firstgid":6193,
-         "image":"src\/assets\/LimeZu_14_Basement_32x32.png",
+         "image":"tilesets\/LimeZu_14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -7835,7 +7835,7 @@
         {
          "columns":16,
          "firstgid":6993,
-         "image":"src\/assets\/LimeZu_16_Grocery_store_32x32.png",
+         "image":"tilesets\/LimeZu_16_Grocery_store_32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -7848,7 +7848,7 @@
         {
          "columns":16,
          "firstgid":8241,
-         "image":"src\/assets\/LimeZu_18_Jail_32x32.png",
+         "image":"tilesets\/LimeZu_18_Jail_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -7861,7 +7861,7 @@
         {
          "columns":16,
          "firstgid":8961,
-         "image":"src\/assets\/LimeZu_19_Hospital_32x32.png",
+         "image":"tilesets\/LimeZu_19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -7874,7 +7874,7 @@
         {
          "columns":16,
          "firstgid":10721,
-         "image":"src\/assets\/LimeZu_21_Clothing_Store_32x32.png",
+         "image":"tilesets\/LimeZu_21_Clothing_Store_32x32.png",
          "imageheight":2144,
          "imagewidth":512,
          "margin":0,
@@ -7887,7 +7887,7 @@
         {
          "columns":16,
          "firstgid":11793,
-         "image":"src\/assets\/LimeZu_22_Museum_32x32.png",
+         "image":"tilesets\/LimeZu_22_Museum_32x32.png",
          "imageheight":1152,
          "imagewidth":512,
          "margin":0,
@@ -7900,7 +7900,7 @@
         {
          "columns":75,
          "firstgid":12369,
-         "image":"src\/assets\/LimeZu_23_Room_Builder_32x32.png",
+         "image":"tilesets\/LimeZu_23_Room_Builder_32x32.png",
          "imageheight":2144,
          "imagewidth":2400,
          "margin":0,
@@ -7913,7 +7913,7 @@
         {
          "columns":22,
          "firstgid":17394,
-         "image":"src\/assets\/LimeZu_24_Office_32x32.png",
+         "image":"tilesets\/LimeZu_24_Office_32x32.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -7926,7 +7926,7 @@
         {
          "columns":18,
          "firstgid":17922,
-         "image":"src\/assets\/LimeZu_24_User_Interface_32x32.png",
+         "image":"tilesets\/LimeZu_24_User_Interface_32x32.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -7939,7 +7939,7 @@
         {
          "columns":6,
          "firstgid":18174,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"tilesets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -7962,7 +7962,7 @@
         {
          "columns":7,
          "firstgid":18186,
-         "image":"src\/assets\/TousNomades_Walls.png",
+         "image":"tilesets\/TousNomades_Walls.png",
          "imageheight":960,
          "imagewidth":224,
          "margin":0,
@@ -7975,7 +7975,7 @@
         {
          "columns":8,
          "firstgid":18396,
-         "image":"src\/assets\/TousNomades_Logos.png",
+         "image":"tilesets\/TousNomades_Logos.png",
          "imageheight":1152,
          "imagewidth":256,
          "margin":0,
@@ -7988,7 +7988,7 @@
         {
          "columns":5,
          "firstgid":18684,
-         "image":"src\/assets\/TousNomades_Booth.png",
+         "image":"tilesets\/TousNomades_Booth.png",
          "imageheight":96,
          "imagewidth":160,
          "margin":0,
@@ -8001,7 +8001,7 @@
         {
          "columns":6,
          "firstgid":18699,
-         "image":"src\/assets\/TousNomades_Font.png",
+         "image":"tilesets\/TousNomades_Font.png",
          "imageheight":480,
          "imagewidth":192,
          "margin":0,

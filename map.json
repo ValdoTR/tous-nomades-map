@@ -1005,7 +1005,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"src\/assets\/LimeZu_1_Generic_32x32.png",
+         "image":"tilesets\/LimeZu_1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -1018,7 +1018,7 @@
         {
          "columns":16,
          "firstgid":961,
-         "image":"src\/assets\/LimeZu_3_Bathroom_32x32.png",
+         "image":"tilesets\/LimeZu_3_Bathroom_32x32.png",
          "imageheight":1792,
          "imagewidth":512,
          "margin":0,
@@ -1031,7 +1031,7 @@
         {
          "columns":16,
          "firstgid":1857,
-         "image":"src\/assets\/LimeZu_2_LivingRoom_32x32.png",
+         "image":"tilesets\/LimeZu_2_LivingRoom_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -1044,7 +1044,7 @@
         {
          "columns":16,
          "firstgid":2577,
-         "image":"src\/assets\/LimeZu_4_Bedroom_32x32.png",
+         "image":"tilesets\/LimeZu_4_Bedroom_32x32.png",
          "imageheight":3424,
          "imagewidth":512,
          "margin":0,
@@ -1057,7 +1057,7 @@
         {
          "columns":16,
          "firstgid":4289,
-         "image":"src\/assets\/LimeZu_5_Classroom_and_library_32x32.png",
+         "image":"tilesets\/LimeZu_5_Classroom_and_library_32x32.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -1070,7 +1070,7 @@
         {
          "columns":16,
          "firstgid":4833,
-         "image":"src\/assets\/LimeZu_6_Music_and_sport_32x32.png",
+         "image":"tilesets\/LimeZu_6_Music_and_sport_32x32.png",
          "imageheight":928,
          "imagewidth":512,
          "margin":0,
@@ -1083,7 +1083,7 @@
         {
          "columns":16,
          "firstgid":5297,
-         "image":"src\/assets\/LimeZu_7_Art_32x32.png",
+         "image":"tilesets\/LimeZu_7_Art_32x32.png",
          "imageheight":224,
          "imagewidth":512,
          "margin":0,
@@ -1096,7 +1096,7 @@
         {
          "columns":16,
          "firstgid":5409,
-         "image":"src\/assets\/LimeZu_8_Gym_32x32.png",
+         "image":"tilesets\/LimeZu_8_Gym_32x32.png",
          "imageheight":608,
          "imagewidth":512,
          "margin":0,
@@ -1109,7 +1109,7 @@
         {
          "columns":16,
          "firstgid":5713,
-         "image":"src\/assets\/LimeZu_9_Fishing_32x32.png",
+         "image":"tilesets\/LimeZu_9_Fishing_32x32.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -1122,7 +1122,7 @@
         {
          "columns":12,
          "firstgid":6145,
-         "image":"src\/assets\/LimeZu_10_Birthday_party_32x32.png",
+         "image":"tilesets\/LimeZu_10_Birthday_party_32x32.png",
          "imageheight":128,
          "imagewidth":384,
          "margin":0,
@@ -1135,7 +1135,7 @@
         {
          "columns":16,
          "firstgid":6193,
-         "image":"src\/assets\/LimeZu_11_Halloween_32x32.png",
+         "image":"tilesets\/LimeZu_11_Halloween_32x32.png",
          "imageheight":1952,
          "imagewidth":512,
          "margin":0,
@@ -1148,7 +1148,7 @@
         {
          "columns":16,
          "firstgid":7169,
-         "image":"src\/assets\/LimeZu_12_Kitchen_32x32.png",
+         "image":"tilesets\/LimeZu_12_Kitchen_32x32.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -1161,7 +1161,7 @@
         {
          "columns":16,
          "firstgid":7953,
-         "image":"src\/assets\/LimeZu_13_Conference_Hall_32x32.png",
+         "image":"tilesets\/LimeZu_13_Conference_Hall_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -1174,7 +1174,7 @@
         {
          "columns":16,
          "firstgid":8145,
-         "image":"src\/assets\/LimeZu_14_Basement_32x32.png",
+         "image":"tilesets\/LimeZu_14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -1187,7 +1187,7 @@
         {
          "columns":16,
          "firstgid":8945,
-         "image":"src\/assets\/LimeZu_15_Christmas_32x32.png",
+         "image":"tilesets\/LimeZu_15_Christmas_32x32.png",
          "imageheight":544,
          "imagewidth":512,
          "margin":0,
@@ -1200,7 +1200,7 @@
         {
          "columns":16,
          "firstgid":9217,
-         "image":"src\/assets\/LimeZu_16_Grocery_store_32x32.png",
+         "image":"tilesets\/LimeZu_16_Grocery_store_32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -1213,7 +1213,7 @@
         {
          "columns":16,
          "firstgid":10465,
-         "image":"src\/assets\/LimeZu_18_Jail_32x32.png",
+         "image":"tilesets\/LimeZu_18_Jail_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -1226,7 +1226,7 @@
         {
          "columns":16,
          "firstgid":11185,
-         "image":"src\/assets\/LimeZu_19_Hospital_32x32.png",
+         "image":"tilesets\/LimeZu_19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -1239,7 +1239,7 @@
         {
          "columns":16,
          "firstgid":12945,
-         "image":"src\/assets\/LimeZu_21_Clothing_Store_32x32.png",
+         "image":"tilesets\/LimeZu_21_Clothing_Store_32x32.png",
          "imageheight":2144,
          "imagewidth":512,
          "margin":0,
@@ -1252,7 +1252,7 @@
         {
          "columns":16,
          "firstgid":14017,
-         "image":"src\/assets\/LimeZu_22_Museum_32x32.png",
+         "image":"tilesets\/LimeZu_22_Museum_32x32.png",
          "imageheight":1152,
          "imagewidth":512,
          "margin":0,
@@ -1265,7 +1265,7 @@
         {
          "columns":75,
          "firstgid":14593,
-         "image":"src\/assets\/LimeZu_23_Room_Builder_32x32.png",
+         "image":"tilesets\/LimeZu_23_Room_Builder_32x32.png",
          "imageheight":2144,
          "imagewidth":2400,
          "margin":0,
@@ -1278,7 +1278,7 @@
         {
          "columns":22,
          "firstgid":19618,
-         "image":"src\/assets\/LimeZu_24_Office_32x32.png",
+         "image":"tilesets\/LimeZu_24_Office_32x32.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -1291,7 +1291,7 @@
         {
          "columns":18,
          "firstgid":20146,
-         "image":"src\/assets\/LimeZu_24_User_Interface_32x32.png",
+         "image":"tilesets\/LimeZu_24_User_Interface_32x32.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -1304,7 +1304,7 @@
         {
          "columns":6,
          "firstgid":20398,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"tilesets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -1327,7 +1327,7 @@
         {
          "columns":8,
          "firstgid":20410,
-         "image":"src\/assets\/TousNomades_Logos.png",
+         "image":"tilesets\/TousNomades_Logos.png",
          "imageheight":1152,
          "imagewidth":256,
          "margin":0,
@@ -1340,7 +1340,7 @@
         {
          "columns":6,
          "firstgid":20698,
-         "image":"src\/assets\/TousNomades_Font.png",
+         "image":"tilesets\/TousNomades_Font.png",
          "imageheight":480,
          "imagewidth":192,
          "margin":0,
@@ -1353,7 +1353,7 @@
         {
          "columns":2,
          "firstgid":20788,
-         "image":"src\/assets\/TousNomades_VIP_Sign.png",
+         "image":"tilesets\/TousNomades_VIP_Sign.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1366,7 +1366,7 @@
         {
          "columns":6,
          "firstgid":20792,
-         "image":"src\/assets\/Anim_Arrow.png",
+         "image":"tilesets\/Anim_Arrow.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
@@ -1408,7 +1408,7 @@
         {
          "columns":13,
          "firstgid":20798,
-         "image":"src\/assets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -1421,7 +1421,7 @@
         {
          "columns":9,
          "firstgid":21071,
-         "image":"src\/assets\/Glitter-Fog-Confetti-Welcome-Still_CNM-HD.jpeg",
+         "image":"tilesets\/Glitter-Fog-Confetti-Welcome-Still_CNM-HD.jpeg",
          "imageheight":160,
          "imagewidth":305,
          "margin":0,
@@ -1434,7 +1434,7 @@
         {
          "columns":3,
          "firstgid":21116,
-         "image":"src\/assets\/Game Room.png",
+         "image":"tilesets\/Game Room.png",
          "imageheight":99,
          "imagewidth":100,
          "margin":0,
@@ -1447,7 +1447,7 @@
         {
          "columns":17,
          "firstgid":21125,
-         "image":"src\/assets\/tapis entr\u00e9e.png",
+         "image":"tilesets\/tapis entr\u00e9e.png",
          "imageheight":306,
          "imagewidth":550,
          "margin":0,
@@ -1461,7 +1461,7 @@
         {
          "columns":11,
          "firstgid":21278,
-         "image":"src\/assets\/Welcome 7 oct.png",
+         "image":"tilesets\/Welcome 7 oct.png",
          "imageheight":283,
          "imagewidth":380,
          "margin":0,
@@ -1474,7 +1474,7 @@
         {
          "columns":10,
          "firstgid":21366,
-         "image":"src\/assets\/good vibes only.png",
+         "image":"tilesets\/good vibes only.png",
          "imageheight":264,
          "imagewidth":320,
          "margin":0,
