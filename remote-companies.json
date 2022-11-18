@@ -18271,7 +18271,22 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/streamyard.com\/e\/7qfywhnfjqwh"
+                         "value":"https:\/\/www.youtube.com\/embed\/S-nLK91EJEc?autoplay=1"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"autoplay"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":70
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
                         }],
                  "rotation":0,
                  "visible":true,
