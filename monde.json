@@ -488,22 +488,17 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Salle d'accueil de tousnomades.com"
+         "value":"Monde de tousnomades.com"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/valdotr.github.io\/tous-nomades-map\/map.json"
+         "value":"monde.png"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Accueil"
+         "value":"Monde"
         }, 
         {
          "name":"script",
